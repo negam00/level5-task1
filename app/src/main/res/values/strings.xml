@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="main_title">My notepad</string>
+    <string name="note_title">Note title</string>
+    <string name="note_text">Your notes</string>
+    <string name="last_updated">Last updated: %1s</string>
+</resources>
